@@ -42,7 +42,7 @@ main {
     position: relative;
     margin-top: 20px;
     margin-left: 90px;
-    background-image: url(/imagens/imagemlado.png);
+    background-image: url(imagemlado.png);
     background-repeat: no-repeat;
     border-radius: 10px;
     background-position: 18px;
